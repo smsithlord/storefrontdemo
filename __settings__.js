@@ -8,7 +8,7 @@ CONTEXT_OPTIONS = {
     'preferWebGl2': true,
     'powerPreference': "default"
 };
-SCRIPTS = [ 110260346, 110260354, 110260356, 110260370, 110260373 ];
+SCRIPTS = [ 113835535, 113835537, 113835553, 113835560, 113835565, 113835568 ];
 CONFIG_FILENAME = "config.json";
 INPUT_SETTINGS = {
     useKeyboard: true,
